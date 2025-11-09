@@ -40,5 +40,7 @@
       "cs": "Roda as verificações da sintaxe de código. PSR12",
       "phan": "Roda as verificações de erros no código",
       "check": "Roda as verificações do código. PHAN, PHPCS e PHPUnit"
-    }
+    },
+    "license": "GPL-3.0-or-later",
+    "bin": "buscar-cursos.php"
 }
